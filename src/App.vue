@@ -85,7 +85,7 @@ const confrimEdit = () => {
 </script>
 
 <template>
-  <h1>目前是App.vue</h1>
+  <h1>飲料菜單</h1>
   <table>
     <thead>
       <tr>
